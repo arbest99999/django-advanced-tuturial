@@ -14,6 +14,7 @@ coreapi
 django-mail-templated
 djoser
 # deployement
+gunicorn
 
 
 # reformatting
