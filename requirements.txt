@@ -33,3 +33,6 @@ django-cors-headers
 
 # Load Testing
 locust
+
+#gunicorn
+gunicorn
